@@ -1,0 +1,17 @@
+# Link names and prim descriptions for Okey table
+# Seats
+SEAT_1|Seat for Player 1
+SEAT_2|Seat for Player 2
+SEAT_3|Seat for Player 3
+SEAT_4|Seat for Player 4
+
+# HUD Buttons
+DRAW_BUTTON|Draws a tile from the deck
+DISCARD_BUTTON|Discards selected tile
+ENDROUND_BUTTON|Ends the current round
+
+# Scoreboard panels
+SCORE_1|Score display for Player 1
+SCORE_2|Score display for Player 2
+SCORE_3|Score display for Player 3
+SCORE_4|Score display for Player 4
